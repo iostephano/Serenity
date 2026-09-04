@@ -8,6 +8,8 @@ que mostrar. Existe como proyecto de portafolio para enseñar composición de in
 en SwiftUI, un sistema de diseño propio, estado con `@Observable`, y lógica de
 transporte de reproducción aislada y probada.
 
+<img width="1259" height="665" alt="Serenity" src="https://github.com/user-attachments/assets/7a7bdc6b-71b3-4d56-a880-4cb25e07bb7e" />
+
 ---
 
 ## Tecnologías usadas
